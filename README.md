@@ -15,7 +15,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 5. End the program. 
 
 ## Program:
-```
+```PYTHON
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: ANDREW VARGHESE V.S
